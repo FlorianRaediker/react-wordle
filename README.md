@@ -175,6 +175,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Fletcherdle](https://www.fletcherdle.com/): American singer-songwriter FLETCHER
 - [Lyricle](https://www.lyricle.app/): Lyrics
 - [Marvle](https://marvle.herokuapp.com): Superhero (Marvel and DC) themed
+- [Midnightle](https://midnightle.flra.eu): Taylor Swift's Midnights album
 - [Movie Wordle](https://movie-wordle.vercel.app): Bollywood
 - [Murdle](https://murdle.vercel.app/): Spooky hangman mashup
 - [Pawnle](https://pawnle.vercel.app/): Parks and Recreation

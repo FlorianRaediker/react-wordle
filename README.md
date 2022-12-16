@@ -137,8 +137,8 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Ukrainian](https://goroh.pp.ua/games/wordle): Ukrainian
 - [Urdle](https://urdle.chaoticity.com/): Urdu
 - [Vārdulis](https://wordle.lielakeda.lv/): Latvian
+- [Wokle](https://wokle.njamed.com/): Bininj Kunwok
 - [Word-leh!](https://word-leh.com): Singlish
-- [Wordlar](http://wordlar.uz/): Uzbek
 - [Wordle (BOS)](https://elahmo.github.io/wordle/): Bosnian
 - [Wordle (Spanish)](https://wordle-es.xavier.cc): Spanish/Espanol
 - [Wordle-RO](https://wordle-ro.sirb.net/): Romanian
@@ -163,7 +163,6 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Birdle - Emojis](https://birdle.dev): Bird emojis
 - [Birdle](https://www.creek-birdle.com/): Birds
 - [Buildly](https://buildly.procurepro.co/): Construction themed
-- [Chipotle](https://chipotlele.herokuapp.com): Chipotle (food, items, etc.) themed
 - [Crosswordle](https://crosswordle.mekoppe.com/): Crossword mashup
 - [DALL-e-dle](https://dall-e-dle.vercel.app/): Provides a DALL-E generated image of the word as a clue
 - [Dundle](https://dundle.dunmiffcord.com/): The Office
@@ -174,7 +173,6 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Filmle](https://filmle.now.sh/): Movie titles
 - [Fletcherdle](https://www.fletcherdle.com/): American singer-songwriter FLETCHER
 - [Lyricle](https://www.lyricle.app/): Lyrics
-- [Marvle](https://marvle.herokuapp.com): Superhero (Marvel and DC) themed
 - [Midnightle](https://midnightle.flra.eu): Taylor Swift's Midnights album
 - [Movie Wordle](https://movie-wordle.vercel.app): Bollywood
 - [Murdle](https://murdle.vercel.app/): Spooky hangman mashup
@@ -186,6 +184,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Radiole](https://radiole.vercel.app/): Radio-themed (for World Radio Day)
 - [RareWordle](https://rwordle.vercel.app/): Word guessing with multiple simultaneous solutions of varying "values", all created from the same letters. The goal is to find the most obscure solution. It is inspired by the TV game show Pointless.
 - [Reverdle](https://reverdle.now.sh/): Wordle but in reverse, that is one has to make as many guesses possible which do not have any green letter (i.e. a letter in the correct location compared to the hidden solution).
+- [Spotle](https://spotlegame.co.uk): Wordle with an extra block, the incognito block
 - [Squirdle](https://squirdle-inky.vercel.app/): Pokeman
 - [Tacticle](https://tacticle.co/): Chess puzzles
 - [Taylordle](https://www.taylordle.com/): Taylor Swift
@@ -195,6 +194,10 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Wrdl](https://wrdl-abae.vercel.app/): Words that are 5 letters long after getting rid of their vowels
 - [WROUD](https://www.wroud.net/): W R O U D is a simple word game that challenges people to find a six-letter word in 3 guesses from a cloud of letters.
 - [香港麻雀 糊 dle](https://hkwudle.vercel.app/): Mahjong hands under Hong Kong rules
+
+### Fun themes in other languages
+- [German Harry Potter Wordle](https://hpwordle.de)
+- [Spotle](https://spotlegame.co.uk/portuguese): Spotle, but in Portuguese
 
 ### Math, Acronyms, Science, Tech, and more
 
